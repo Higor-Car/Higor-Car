@@ -35,6 +35,4 @@ CRUD em Django com autenticação de usuário. *(pausado — próximo passo: aut
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Higor-Car&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-Car&layout=compact&hide_border=true" height="165"/>
 </div>
