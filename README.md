@@ -13,7 +13,7 @@ Aberto a oportunidades remotas e internacionais.
 
 ## Projetos em destaque
 
-### [Achou Promo](https://github.com/Higor-Car/promopost) · [achoupromos.com.br](https://achoupromos.com.br)
+### [Achou Promo](https://github.com/Higor-Car/achou-promo) · [achoupromos.com.br](https://achoupromos.com.br)
 
 Plataforma de promoções para os comércios de Maurilândia, Turvelândia e Porteirão (GO). Os comércios parceiros pagam uma mensalidade e os consumidores acessam a vitrine de graça, sem login.
 
