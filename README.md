@@ -30,7 +30,6 @@ API REST para gerenciar produtos, clientes, pedidos e itens de pedido, com 20 en
 
 - Autenticação com JWT e senhas protegidas com bcrypt
 - Validação com marshmallow e documentação OpenAPI/Swagger gerada pelo flask-smorest
-- Deploy na AWS EC2 com Gunicorn e systemd
 - **CI/CD** com GitHub Actions: cada push na `main` atualiza o servidor automaticamente
 
 `Python` `Flask` `JWT` `SQLite` `AWS EC2` `GitHub Actions`
